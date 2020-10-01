@@ -1,2 +1,2 @@
-# hrlp
+# help
 read me
